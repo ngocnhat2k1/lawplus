@@ -1,0 +1,107 @@
+.header-top p{
+    color: #898989;
+    font-family: lato;
+    font-size: 13px;
+}
+.header-top{
+    display: flex;
+    justify-content:space-between;
+}
+.header-top-left{
+    display: flex;
+    vertical-align: middle;
+}
+.header-top-left-gmail{
+    padding-top: 10px;
+    display: flex;
+    padding-right: 30px;
+}
+.header-top-left-gmail i{
+    color: #898989;
+
+    padding-right: 10px;
+    font-size: 20px;
+}
+.header-top-left-phone{
+    padding-top: 10px;
+    display: flex;
+}
+.header-top-left-phone i{
+    color: #bebebe;
+
+    padding-right: 10px;
+    font-size: 20px;
+}
+.header-top-right{
+    display: flex;
+
+}
+.header-top-right i{
+    padding: 5px 8px;
+    font-size: 20px;
+}
+.header-top-right-icon{
+    padding-top: 10px;
+    color: #bebebe;
+    font-size: 13px;
+padding-right: 50px;
+}
+.header-top-right-button button{
+    background-color: #304771;
+    border: none;
+    color: white;
+    padding: 12px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    font-family: lato ;
+}
+.header-top-right-button button:hover{
+    background-color: #597099;
+    text-decoration: underline;
+}
+.header-nav{
+    padding-top: 25px;
+    display: flex;
+    justify-content:space-between;
+}
+.header-nav-left{
+    display: flex;
+}
+.header-nav-right-menu{
+    display: flex;
+    margin-top: 10px;
+   
+}
+.ion-search{
+    font-size: 15px;
+}
+.header-nav-right li{
+    list-style-type: none;
+    padding: 0 22px;
+}
+.header-nav-right >ul >li>a{
+    font-family: lato;
+    font-size: 14px;
+    color: #898989;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+
+.header-nav-right >ul >li>a:hover{
+    color: #3e537a;
+}
+.header-nav-left-logo{
+    display: flex;
+}
+.header-nav-left .logo{
+padding-right: 10px;
+}
+.header-nav-left .logo-name{
+margin-top: 10px;
+width: 140px;
+height: 25px;
+object-fit: contain;
+}
