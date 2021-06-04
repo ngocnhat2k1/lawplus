@@ -1,0 +1,53 @@
+.tnn-button1{
+    background-color: #304771;
+    border: none;
+    color: white;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    font-family: lato ;
+}
+.tnn-button1:hover{
+    background-color: #597099;
+    text-decoration: none;
+}
+.tnn-button-yellow{
+    border: 2px solid #c8ac48;
+    color: white;
+    width: 170px;
+    height: 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    font-family: lato ;
+    text-transform: uppercase;
+    background-color: #c8ac48;
+    margin-right: 5.5px;
+}
+.tnn-button-yellow:hover{
+    background-color: #f0d574;
+    text-decoration: none;
+}
+
+.tnn-button-transparent{
+    border: 2px solid white;
+    color: white;
+    width: 170px;
+    height: 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    font-family: lato ;
+    text-transform: uppercase;
+    background: transparent;
+    margin-left: 5.5px;
+}
+.tnn-button-transparent:hover{
+    background: slategrey;
+    text-decoration: none;
+}
