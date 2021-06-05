@@ -1,20 +1,23 @@
-.content .background{
+.content .background {
     padding-top: 25px;
     object-fit: cover;
     width: 100%;
     height: 670px;
     position: relative;
 }
-.content{
+
+.content {
     position: relative;
 }
-.content-text{
+
+.content-text {
     position: absolute;
-    top: 42%;
+    top: 29%;
     left: 50%;
     transform: translateX(-50%);
 }
-.content-text1{
+
+.content-text1 {
     font-family: 'Libre Baskerville', serif;
     color: #fff;
     font-size: 40px;
@@ -23,7 +26,8 @@
     text-transform: uppercase;
     width: 100vw;
 }
-.content-text2{
+
+.content-text2 {
     font-family: 'Lato', sans-serif;
     color: #fff;
     font-size: 18px;
@@ -31,16 +35,104 @@
     text-align: center;
     text-transform: uppercase;
     width: 100vw;
-    letter-spacing:2px;
+    letter-spacing: 2px;
     padding-top: 10px;
 }
-.content-button{
+
+.content-button {
     position: absolute;
-    top: 60%;
+    top: 41%;
     left: 50%;
     transform: translateX(-50%);
 }
-.content-request{
-    background-color: #304771;
 
+.content-funcion {
+    position: relative;
+    top: -105px;
+}
+
+.content-request {
+    background-color: #304771;
+    text-align: center;
+}
+
+.content-request img {
+    padding-top: 48px;
+}
+
+.content-request-title {
+    color: #fff;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+
+.content-request-description {
+    color: #b2bbca;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding: 10px 0 55px 0;
+    line-height: 25px;
+    width: 81%;
+    margin: 0 auto;
+}
+
+.content-investigation {
+    background-color: #283c61;
+    text-align: center;
+    height: auto;
+}
+
+.content-investigation img {
+    padding-top: 45px;
+}
+
+.content-investigation-title {
+    color: #fff;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+
+.content-investigation-description {
+    color: #b2bbca;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding: 10px 0 55px 0;
+    line-height: 25px;
+    width: 81%;
+    margin: 0 auto;
+}
+
+.content-search {
+    background-color: #1e3051;
+    text-align: center;
+    height: auto;
+}
+
+.content-search img {
+    padding-top: 45px;
+}
+
+.content-search-title {
+    color: #fff;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+
+.content-search-description {
+    color: #b2bbca;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding: 10px 0 55px 0;
+    line-height: 25px;
+    width: 81%;
+    margin: 0 auto;
 }
