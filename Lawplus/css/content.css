@@ -136,3 +136,52 @@
     width: 81%;
     margin: 0 auto;
 }
+
+.text-center {
+    text-align: center;
+}
+
+.who-we-are {
+    text-align: center;
+}
+
+.hello-lawplus {
+    text-transform: uppercase;
+    font-family: 'Lato', sans-serif;
+    color: #70747c;
+    font-size: 14px;
+    letter-spacing: 3px;
+}
+
+.who-we-are-title {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 30px;
+    color: #304771;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 3px;
+}
+
+.who-we-are-description {
+    text-align: left;
+    font-family: 'Lato', sans-serif;
+    font-size: 22px;
+    font-style: italic;
+    color: #777c84;
+    font-weight: 400;
+    width: 49%;
+    letter-spacing: 0.3px;
+    padding-top: 70px;
+}
+
+.who-we-are-description2 {
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    color: #777c84;
+    padding-top: 40px;
+    width: 58%;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+}
